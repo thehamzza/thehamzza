@@ -6,3 +6,7 @@
 - 👯 I’m looking to collaborate on ML projects
 - 📫 How to reach me:
 - 🔗 www.linkedin.com/in/muhammad-hamza-shakoor/
+
+# under-construction:
+- 🕴️ www.graysol.co
+- 💻 www.mhamza.co
