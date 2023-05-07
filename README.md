@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
-<h3 align="center">A passionate data engineer.</h3>
+<h3 align="center">A passionate data scientist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thehamzza&label=Profile%20views&color=0e75b6&style=flat" alt="thehamzza" /> </p>
 
