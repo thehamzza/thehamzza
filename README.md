@@ -23,7 +23,7 @@
 
 - 🔗 **its.hamza100@gmail.com**
 
-- 🔗 **https://www.fiverr.com/itshamza100**
+- 🔗 **https://www.linkedin.com/in/muhammad-hamza-shakoor/**
 
 - ⚡ Interests **Swimming, Powerlifting, Skateboarding, Surfing**
 
