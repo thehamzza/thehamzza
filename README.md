@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as **a data engineer @ Data Gurus Pvt Ltd.**
 
-- 🕴️  My Software Agency **www.graysol.co** 
+- 🕴️  Software Agency **www.graysol.co** 
 
 - 🌱 I’m currently learning **MERN stack**
 
