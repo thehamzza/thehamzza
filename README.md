@@ -26,8 +26,7 @@
 - ⚡ Interests **Swimming, Powerlifting, Skateboarding, Surfing**
 
 #### under-construction projects:
-- 🕴️ www.graysol.co
-- 💻 www.mhamza.co
+- 💻 www.mhamza.site
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
