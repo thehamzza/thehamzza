@@ -26,7 +26,7 @@
 - ⚡ Interests **Swimming, Powerlifting, Skateboarding, Surfing**
 
 #### under-construction projects:
-- 💻 www.mhamza.site
+- 💻 https://www.mhamza.site
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
