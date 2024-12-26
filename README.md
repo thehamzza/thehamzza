@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **ML, AI, CV projects**
 
-- 👨‍💻 All of my projects are available at [mhamza.site](mhamza.site)
+- 👨‍💻 All of my projects are available at [www.mhamza.site](www.mhamza.site)
 
 - 📝 I sometimes write articles on [https://medium.com/@the.hamza](https://medium.com/@the.hamza)
 
