@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **ML, AI, CV projects**
 
-- 👨‍💻 All of my projects are available at [www.mhamza.co](www.mhamza.co)
+- 👨‍💻 All of my projects are available at [mhamza.site](mhamza.site)
 
 - 📝 I sometimes write articles on [https://medium.com/@the.hamza](https://medium.com/@the.hamza)
 
@@ -26,7 +26,7 @@
 - ⚡ Interests **Swimming, Powerlifting, Skateboarding, Surfing**
 
 #### under-construction projects:
-- 💻 https://www.mhamza.site
+- 💻 mhamza.site
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
